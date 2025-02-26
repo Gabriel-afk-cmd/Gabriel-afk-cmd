@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project for a competition<br>🤝 I’m looking for help with ML and APIS<br>🌱 I’m currently learning Python and MySQL<br>⚡ Fun fact I love playing the drums
+🔭 I’m currently working on a project for a development competition<br>🤝 I’m looking for help with ML and APIS<br>🌱 I’m currently learning Python and MySQL<br>⚡ Fun fact I love playing the drums
 
 
 ## 🌐 Socials:
